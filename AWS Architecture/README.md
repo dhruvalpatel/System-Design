@@ -6,5 +6,11 @@
 * [Discovering Hot Topics using Machine Learning](https://aws.amazon.com/blogs/architecture/discovering-hot-topics-using-machine-learning/)
 * [Building a Serverless Outbreak Management Solution with AWS Data Lab](https://aws.amazon.com/blogs/architecture/building-a-serverless-outbreak-management-solution-with-aws-data-lab/)
 * [How Amazon Is Using AI To Better Understand Customer Search Queries](https://analyticsindiamag.com/how-amazon-is-using-ai-to-better-understand-customer-search-queries/)
+* [Snap Optimizes Cost Savings While Storing Over 1.5 Trillion Photos and Videos on Amazon S3 Glacier Instant Retrieval](https://aws.amazon.com/solutions/case-studies/snap-case-study/?did=cr_card&trk=cr_card)
 * [AWS RDS Readable Standby -- InfoQ](https://www.infoq.com/news/2022/01/aws-rds-readable-standby)
-
+* [Lumos: Amazon’s internal, large-scale serverless payments system](https://www.youtube.com/watch?v=8DkwUeZeVHo)
+* [Netflix Realizes Multi-Region Resiliency on Amazon Route 53](https://www.youtube.com/watch?v=WDDkLOT8SCk&list=PLhr1KZpdzukdeX8mQ2qO73bg6UKQHYsHb&index=12)
+* [Netflix & Amazon SES Case Study](https://aws.amazon.com/ses/netflix-ses-case-study/)
+* [Fix This Podcast](https://aws.amazon.com/solutions/case-studies/fix-this/?podcast-list.sort-by=item.additionalFields.DatePublished&podcast-list.sort-order=desc&awsf.tech-category-filter=*all&awsf.industry-filter=*all)
+* [Formula 1: Using Amazon SageMaker to Deliver Real-Time Insights to Fans](https://aws.amazon.com/blogs/architecture/formula-1-using-amazon-sagemaker-to-deliver-real-time-insights-to-fans-live/)
+* [Dream11: Scaling a Fantasy Sports Platform with 5M Daily Active Users](https://aws.amazon.com/blogs/architecture/scaling-fantasy-sports-platform/)

@@ -1,6 +1,7 @@
 # Uber Engineering Blog (Links)
 
 - [Designing Uber](http://highscalability.com/blog/2022/1/25/designing-uber.html)
+- [Vertical CPU Scaling: Reduce Cost of Capacity and Increase Reliability](https://www.uber.com/en-IN/blog/vertical-cpu-scaling/)
 - [Design the Uber backend: System design walkthrough (educative)](https://www.educative.io/blog/uber-backend-system-design)
 - [The Uber Engineering Tech Stack, Part I: The Foundation](https://eng.uber.com/tech-stack-part-one-foundation/)
 - [Uber’s Fulfillment Platform: Ground-up Re-architecture to Accelerate Uber’s Go/Get Strategy](https://eng.uber.com/fulfillment-platform-rearchitecture)
@@ -15,6 +16,8 @@
 - [Enabling Seamless Kafka Async Queuing with Consumer Proxy](https://eng.uber.com/kafka-async-queuing-with-consumer-proxy/)
 - [Building Reliable Reprocessing and Dead Letter Queues with Apache Kafka](https://eng.uber.com/reliable-reprocessing/)
 - [How Uber is Leveraging Apache Kafka For More Than 300 Micro Services](https://analyticsindiamag.com/how-uber-is-leveraging-apache-kafka-for-more-than-300-micro-services/)
+- [Michelangelo PyML: Introducing Uber’s Platform for Rapid Python ML Model Development](https://www.uber.com/en-IN/blog/michelangelo-pyml/)
+- [Supercharging A/B Testing at Uber](https://eng.uber.com/supercharging-a-b-testing-at-uber/)
 - [Jellyfish: Cost-Effective Data Tiering for Uber’s Largest Storage System](https://eng.uber.com/jellyfish-cost-effective-data-tiering/)
 - [YAML Generator for Funnel YAML Files: Streamlining the Mobile Data Workflow Process](https://eng.uber.com/streamlining-mobile-data-workflow-process/)
 - [Real-Time Exactly-Once Ad Event Processing with Apache Flink, Kafka, and Pinot](https://eng.uber.com/real-time-exactly-once-ad-event-processing/)
@@ -29,4 +32,5 @@
 - [Architecting with Google Cloud](https://www.youtube.com/watch?v=DY2AR8Wzg3Y)
 - [DeepETA: How Uber Predicts Arrival Times Using Deep Learning](https://eng.uber.com/deepeta-how-uber-predicts-arrival-times/)
 - [Faster Neural Networks Straight from JPEG](https://eng.uber.com/neural-networks-jpeg/)
+- [Uber’s Next Gen Push Platform on gRPC](https://www.uber.com/en-IN/blog/ubers-next-gen-push-platform-on-grpc/)
 - [Uber Design GKCS](https://www.youtube.com/watch?v=W0KNQuMka-Q)

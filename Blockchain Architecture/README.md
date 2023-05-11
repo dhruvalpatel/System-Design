@@ -6,19 +6,30 @@ the source code, see if you can co-relate with paper and code in the repo.
 - [Advanced] Give a through read to Ethereum white paper. Understand EVM, stack, bytecode, gas computation. 
 - There are a few standards that one must be aware of, ERC-721 and ERC-1155 token standards are absolutely necessary. 
 - Learn about the Byzantine Generals Problem and how it was solved. Learn about consensus problem and ask `Is Blockchain necessary?` when you encounter a similar problem?
-- Proof of Work is absolutely necessary, Proof-of-stake nom nom. 
+- Proof of Work is absolutely necessary, Proof-of-stake maybe. 
 
 ## What is Blockchain ? 
 
 - [Bitcoin Original Paper](https://bitcoin.org/bitcoin.pdf)
 - [Ethereum Yellow Paper](https://ethereum.github.io/yellowpaper/paper.pdf)
+- [Crypto and NFTs Dominate the Headlines, but Smart Money Bets on Web3](https://thenewstack.io/crypto-and-nfts-dominate-the-headlines-but-smart-money-bets-on-web3/)
+- [Modular Blockchain Architecture with Nader Dabit](https://softwareengineeringdaily.com/2022/08/29/modular-blockchain-architecture/)
 - [Solana White Paper](https://solana.com/solana-whitepaper.pdf)
+- [Solana blockchain and the Proof of History](https://www.infoworld.com/article/3666736/solana-blockchain-and-the-proof-of-history.html#:~:text=Solana%20is%20considered%20the%20fastest,2022%203%3A00%20am%20PDT)
 - [**SE Daily - Web3 & Stuff**](https://softwareengineeringdaily.com/category/web3/)
 - [Blockchain for Govt.](https://www.mitre.org/sites/default/files/publications/blockchain-technology-for-government-18-1069.pdf)
 - [Understanding Blockchain Fundamentals, Part 1: Byzantine Fault Tolerance](https://medium.com/loom-network/understanding-blockchain-fundamentals-part-1-byzantine-fault-tolerance-245f46fe8419)
 - [Consensus Algorithms: The Root Of Blockchain Technology](https://101blockchains.com/consensus-algorithms-blockchain/)
 - [https://blog.coinbase.com/blockchain-infrastructure-at-coinbase-366c09dbcef4](https://blog.coinbase.com/blockchain-infrastructure-at-coinbase-366c09dbcef4)
 - [The Raft Consensus Algorithm](https://raft.github.io/) 
+- [Why Web3 Needs a Real-Time Data Layer Now More Than Ever](https://thenewstack.io/why-web3-needs-a-real-time-data-layer-now-more-than-ever/)
+- [Cryptocurrency Price Prediction Using Deep Learning](https://towardsdatascience.com/cryptocurrency-price-prediction-using-deep-learning-70cfca50dd3a)
+- [Cryptocurrency Prediction with LSTM](https://towardsdatascience.com/cryptocurrency-prediction-with-lstm-4cc369c43d1b)
+- [Bittrex API Docs](https://bittrex.github.io/api/v3)
+- [Automated Crypto Trading](https://github.com/gkovacs/cs230-cryptocurrency-trading-lstm)
+- [Blockchain Architecture @Coinbase](https://blog.coinbase.com/blockchain-infrastructure-at-coinbase-366c09dbcef4)
+- [https://www.infoq.com/news/2020/07/coinbase-kubernetes/](https://www.infoq.com/news/2020/07/coinbase-kubernetes/)
+- [Coinbase Case Study](https://aws.amazon.com/solutions/case-studies/coinbase/)
 - [https://blog.coinbase.com/how-coinbase-builds-secure-infrastructure-to-store-bitcoin-in-the-cloud-b1ba6c3f2c11](https://blog.coinbase.com/how-coinbase-builds-secure-infrastructure-to-store-bitcoin-in-the-cloud-b1ba6c3f2c11)
 - [Steamit Blockchain Intro-Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9261418)
 - [Blockchain Solutions & COVID-19](https://www.blockchain-council.org/blockchain/blockchain-based-app-to-make-travel-during-the-pandemic-easier/)
@@ -30,8 +41,11 @@ the source code, see if you can co-relate with paper and code in the repo.
 - [**Eth : Ethereum Virtual Machine**](https://ethereum.org/en/developers/docs/evm/)
 - [**Eth | Mining POW**](https://ethereum.org/en/developers/docs/consensus-mechanisms/pow/mining/)
 - [Dandelion: Redesigning the Bitcoin Network for Anonymity](https://medium.com/mit-security-seminar/dandelion-redesigning-the-bitcoin-network-for-anonymity-eee144b7f51)
+- [The Ins and Outs of Decentralized Exchanges](https://hedera.com/learning/decentralized-finance/decentralized-exchanges)
 - [A Security Reference Architecture for Blockchains](https://arxiv.org/pdf/1904.06898.pdf)
 - [Web 3.0 (BuzzWord for some!)](https://coinmarketcap.com/alexandria/article/what-is-web-3-0)
 - [Arweave with Sam Williams](https://softwareengineeringdaily.com/2022/05/12/arweave-with-sam-williams/)
 - [How Terra Works?](https://docs.terra.money/docs/learn/protocol.html)
-- [https://coinrule.com/](https://coinrule.com/)
+- [Automated Trading with Coinrule: https://coinrule.com/](https://coinrule.com/)
+- [Web 3.0 versus the previous stacks.](https://www.linkedin.com/posts/alexxubyte_systemdesign-coding-interviewtips-activity-6985263220735234048-3cBl?utm_source=share&utm_medium=member_desktop)
+- [Blockchain architecture for trusted transactions](https://www.ibm.com/cloud/architecture/architectures/blockchainArchitecture/)

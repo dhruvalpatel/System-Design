@@ -1,10 +1,11 @@
-# Scalability
+# Scalability, Auth, Patterns, Basics
 
 - [Scalable Design Patterns](http://horicky.blogspot.com/2010/10/scalable-system-design-patterns.html)
 - [https://www.infoq.com/news/2009/05/8-Best-Practices-Scalability/](https://www.infoq.com/news/2009/05/8-Best-Practices-Scalability/)
 - [SE Daily - Architecting for Scale with Lee Atchison](https://softwareengineeringdaily.com/2022/02/12/architecting-for-scale-with-lee/)
 - [https://www.infoq.com/articles/ebay-scalability-best-practices/](https://www.infoq.com/articles/ebay-scalability-best-practices/)
-- [http://highscalability.com/blog/2009/8/11/13-scalability-best-practices.html](http://highscalability.com/blog/2009/8/11/13-scalability-best-practices.html)
+- [13 Scalability Best Practices](http://highscalability.com/blog/2009/8/11/13-scalability-best-practices.html)
+- [How to Improve Your OAuth Developer Experience](https://thenewstack.io/how-to-improve-your-oauth-developer-experience/)
 - [Upgrading the rocket in the air – CTO Decisions with Cos Nicolaescu](https://softwareengineeringdaily.com/2022/06/09/cto-decisions-with-cos-nicolaescu/)
 - [https://www.keycdn.com/blog/scalability-testing](https://www.keycdn.com/blog/scalability-testing)
 - [Node.js App with Auto-scalling](https://node.university/blog/10954/aws-autoscaling)
@@ -15,6 +16,7 @@
 - [**The Future of Microservices?** More Abstractions](https://thenewstack.io/the-future-of-microservices-more-abstractions)
 - [Caching Works!](https://www.youtube.com/watch?v=ASP7O5fDpSg)
 - [8 steps to build a scalable and distributed system design for web applications](https://www.linkedin.com/pulse/8-steps-build-scalable-distributed-system-design-web-yamit-mehta)
+- [The Scoop #33: Will Google start to pay less, over time?](https://newsletter.pragmaticengineer.com/p/the-scoop-33)
 - ["Functional distributed systems beyond request/response" by Melinda Lu](https://www.youtube.com/watch?v=VWrpnT8rwVY)
 - [BBC Online: Architecting for Scale with the Cloud and Serverless](https://www.youtube.com/watch?v=WE-tkz2tf30)
 - [Microservices Database Management](https://relevant.software/blog/microservices-database-management/)
@@ -23,3 +25,4 @@
 - [Google Cloud Architecture Framework: System design](https://cloud.google.com/architecture/framework/system-design)
 - [Refactoring and Optimizing a High Traffic API at PayPal](https://medium.com/paypal-tech/refactoring-and-optimizing-a-high-traffic-api-at-paypal-eb11c373d795)
 - [A Recipe to Migrate and Scale Monoliths in the Cloud](https://www.infoq.com/articles/cloud-migrate-scale/?topicPageSponsorship=2db34777-a828-4199-8777-865da05e8838&itm_source=articles_about_architecture-design&itm_medium=link&itm_campaign=architecture-design)
+- [Building Large-Scale Real-Time JSON Applications](https://thenewstack.io/building-large-scale-real-time-json-applications/)

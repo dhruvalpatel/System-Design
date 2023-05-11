@@ -33,6 +33,8 @@ We are working to create good content to fulfil the needs of system-design noobs
 
 System design is a very broad topic. Even a software engineer with many years of working experience at a top IT company may not be an expert on system design. If you want to become an expert, you need to read many books, articles, and solve real large scale system design problems.
 
+In order to practice designing a few systems, for the love or learning or preparing for interviews, you can use this [practice platform](https://workat.tech/system-design/practice).
+
 This repository only teaches you how to handle the system design interview with a systematic approach in a concise way. You can dive into each topic if you have time. Of course, welcome to add your thoughts!.
 
 ## <a name='toc'>Table of Contents</a>
@@ -103,6 +105,7 @@ Here are some articles about system design related topics.
 * [Scalable Web Architecture and Distributed Systems](http://www.aosabook.org/en/distsys.html)
 * [Numbers Everyone Should Know](http://everythingisdata.wordpress.com/2009/10/17/numbers-everyone-should-know/)
 * [Fallacies of distributed systems](https://pages.cs.wisc.edu/~zuyu/files/fallacies.pdf)
+* [Designing Tinder](http://highscalability.com/blog/2022/1/17/designing-tinder.html)
 * [Scalable System Design Patterns](http://horicky.blogspot.com/2010/10/scalable-system-design-patterns.html)
 * [Introduction to Architecting Systems for Scale](http://lethain.com/introduction-to-architecting-systems-for-scale/)
 * [Transactions Across Datacenters](http://snarfed.org/transactions_across_datacenters_io.html)
